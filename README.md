@@ -1,4 +1,4 @@
-![Alt text](https://github.com/MrJeremyHobbs/After-Dark-A-Library-Adventure/blob/master/images/images_1.jpg?raw=true "A spooky old library.") 
+![Alt text](https://github.com/MrJeremyHobbs/After-Dark-A-Library-Adventure/blob/master/images/image_1.jpg?raw=true "A spooky old library.") 
 # After Dark : A Library Adventure
 
 ## Blurb
